@@ -184,7 +184,7 @@ streamlit run app.py
 - **62.1% success rate** — over a third of all bookings fail to complete, pointing to supply-demand gaps
 - **Driver cancellations (17.9%)** are nearly double customer cancellations (10.2%), suggesting driver-side operational issues
 - **UPI and Cash** dominate payment methods, indicating a mixed digital-physical user base
-- **Prime Sedan and Prime SUV** cover the longest distances, driving the majority of revenue
+- **Prime Sedan and e-Bike** cover the longest distances, driving the majority of revenue
 - **Ratings are consistently high** across all vehicle types (avg above 4.0), indicating good overall service quality
 
 ---
